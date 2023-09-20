@@ -25,7 +25,7 @@ function isPalindromeOptimized(str) {
 
 console.log(isPalindrome("A man, a plan, a canal, Panama")); // Should return true
 
-console.log(isPalindrome("racecar")); // Should return true
+console.log(isPalindromeOptimized("racecar")); // Should return true
 
 /* To optimize the isPalindrome function and reduce its time complexity, we can implement an approach that compares characters from both ends of the string and moves towards the center. This way, we can achieve early detection of non-palindromes and reduce the average time taken for non-palindromes.*/
 

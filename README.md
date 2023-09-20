@@ -3,7 +3,7 @@
 ## Assignment Details
 
 - **Assignment Name:** [Problem Solving]
-- **Course:** [Web Development with Reactjs]
+- **Course:** [Frontend Web Development with Reactjs]
 - **Due Date:** [09 / 09 /2023]
 
 ## Introduction
