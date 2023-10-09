@@ -16,11 +16,15 @@ Welcome to my branch in the course repository for "Frontend Web Development with
 
 1. Clone this repository to your local machine using the following command:
 
-```git clone https://github.com/Cholatrek-Institute/frontend-cohort-4-0```
+``` bash
+git clone https://github.com/Cholatrek-Institute/frontend-cohort-4-0
+```
 
 2. Navigate to this branch:
 
-```cd michael-victor```
+``` bash
+cd michael-victor
+```
 
 3. Explore the code, assignments, and solutions specific to my branch.
 
